@@ -1,0 +1,11 @@
+{
+  "name": "upi-rakshak",
+  "version": "1.0.0",
+  "description": "UPI Fraud Detection Platform",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
